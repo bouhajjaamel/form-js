@@ -1,0 +1,32 @@
+body{background: rgb(152, 155, 11);
+    font-size: larger;
+    display: flex;
+    justify-content: center;}
+
+   
+input {margin-top: 20px;}
+
+label {
+  display: inline-block;
+  width: 250px;
+}
+.item {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 20px;
+}
+.put{ margin-top: 20px;}
+.mult {
+  margin-right: 580px;
+}
+.but {
+ border-radius: 8px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+fieldset {border: 3px solid rgb(1, 43, 6); }
